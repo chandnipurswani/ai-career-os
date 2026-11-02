@@ -28,5 +28,3 @@ Chandni Purswani · Strategy + AI · Abu Dhabi
 6+ years building personalization, customer data and experimentation products across the GCC, including an AI recommendation engine shipped to 1M+ customers at Majid Al Futtaim.
 
 [Portfolio](https://chandnipurswani.github.io) · [LinkedIn](https://www.linkedin.com/in/chandni-purswani)
-
-*Inspired by [Gonzalo Vásquez's AI operating system](https://github.com/gonzalovn93/ai-operating-system), rebuilt for a different market, background and set of roles.*
